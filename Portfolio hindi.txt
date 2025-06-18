@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <title>आयुष जात का पोर्टफोलियो</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>आयुष जात</h1>
+    <p>कक्षा 9वीं छात्र | प्रोग्रामर | तकनीकी प्रेमी</p>
+  </header>
+
+  <section>
+    <h2>परिचय</h2>
+    <p>मैं एक उत्साही छात्र हूँ जिसे कोडिंग, वेब विकास और रचनात्मक कार्यों में रुचि है।</p>
+  </section>
+
+  <section>
+    <h2>कौशल</h2>
+    <ul>
+      <li>Python प्रोग्रामिंग</li>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Git, VS Code, MongoDB</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>प्रोजेक्ट्स</h2>
+    <ul>
+      <li>पोर्टफोलियो वेबसाइट</li>
+      <li>टू-डू लिस्ट ऐप</li>
+      <li>स्टूडेंट मैनेजमेंट सिस्टम</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 आयुष जात</p>
+  </footer>
+</body>
+</html>
